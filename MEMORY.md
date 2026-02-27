@@ -26,3 +26,7 @@ _Preencher conforme histórico cresce._
 ## Temas de expertise acumulada
 
 _Preencher conforme pesquisas realizadas revelam padrões._
+
+## Temas de expertise acumulada
+
+- **Arquitetura OpenClaw:** Compreensão profunda do funcionamento do Gateway, isolamento de agentes, sistema de memória local em Markdown, filas de mensagens, automações via Cron e Heartbeat e políticas granulares de sandboxing. (Ref: `memory/research/2026-02-27-openclaw-docs.md`)
